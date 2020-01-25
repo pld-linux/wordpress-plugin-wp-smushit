@@ -1,6 +1,5 @@
 %define		plugin	wp-smushit
 %define		php_min_version 5.2.0
-%include	/usr/lib/rpm/macros.php
 Summary:	WP Smush.it
 Name:		wordpress-plugin-%{plugin}
 Version:	1.3.4
